@@ -1,5 +1,5 @@
 import React from 'react'
-import Particle from './Particle'
+// import Particle from './Particle'
 import TextEffect from './TextEffect'
 import Image from 'next/image'
 import {ArrowDownTrayIcon} from "@heroicons/react/20/solid";
