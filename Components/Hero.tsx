@@ -10,7 +10,7 @@ const Hero = () => {
         <Particle/>
         <div className='w-[80%] grid-cols-1 mx-auto grid lg:grid-cols-2 gap-[3rem] h-[100%] items-center'>
             <div>
-            <h1 className='text-[35px] md:text-[50px] text-white font-bold'>HI, I'M <span className='text-yellow-400'>JUI!</span></h1>
+            <h1 className='text-[35px] md:text-[50px] text-white font-bold'>HI, I AM <span className='text-yellow-400'>JUI!</span></h1>
             <TextEffect/>
             <p className='mt-[1.5rem] text-[18px] text-[#ffffff92]'>
                 Master student from California State University, Chico. I am incredibly passionate about software engineering.

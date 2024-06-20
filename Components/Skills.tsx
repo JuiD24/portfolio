@@ -24,7 +24,7 @@ const Skills = () => {
             </li>
             <li>
               ▪ Designed and integrated multiple APIs for new payers,
-              facilitating seamless transactions and expanding the company's
+              facilitating seamless transactions and expanding the company&apos;s
               reach.
             </li>
             <li>
@@ -67,8 +67,8 @@ const Skills = () => {
               users need to provide service-level software development.
             </li>
             <li>
-              ▪ Worked in a team to design and develop a prototype called “Award
-              Portal" for internal purposes for Infosys.
+              ▪ Worked in a team to design and develop a prototype called Award
+              Portal for internal purposes for Infosys.
             </li>
           </ul>
         </div>
