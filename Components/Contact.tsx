@@ -1,5 +1,5 @@
 import React from "react";
-import { EnvelopeIcon, BeakerIcon } from "@heroicons/react/24/solid";
+import { EnvelopeIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 
 const Contact = () => {
