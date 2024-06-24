@@ -11,7 +11,7 @@ const TextEffect = () => {
         1000,
         'Java Developer',
         1000,
-        'Programmer',
+        'BackEnd Developer',
         1000
       ]}
       wrapper="span"
