@@ -1,5 +1,5 @@
 import React from "react";
-// import { EnvelopeIcon } from "@heroicons/react/24/solid";
+import { EnvelopeIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 
 const Contact = () => {
@@ -8,7 +8,7 @@ const Contact = () => {
       <div className="w-[80%] mx-auto border-b-[1px] pb-[6rem] border-gray-400 grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[3rem] ">
         <div className="flex items-center space-x-5">
           <div className="w-[60px] h-[60px] md:w-[75px] md:h-[75px] flex items-center justify-center">
-            {/* <EnvelopeIcon className="md:w-[4rem] md:h-[4rem] w-[3.5rem] h-[3.5rem]" /> */}
+            <EnvelopeIcon className="md:w-[4rem] md:h-[4rem] w-[3.5rem] h-[3.5rem]" />
           </div>
           <div>
             <h3 className="text-white">dakhvejui@gmail.com</h3>

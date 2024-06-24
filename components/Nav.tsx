@@ -1,5 +1,5 @@
 import React from 'react';
-// import {Bars3Icon} from "@heroicons/react/20/solid";
+import {Bars3Icon} from "@heroicons/react/20/solid";
 import Link from 'next/link';
 
 interface Props {
@@ -18,9 +18,9 @@ const Nav = ({openNav} : Props) => {
             <div className='nav-link'><Link href="#skills">EXPERIENCE & SKILLS</Link></div>
             <div className='nav-link'><Link href="#projects">PROJECTS</Link></div>
             <div className='nav-link'><Link href="#contact">CONTACT</Link></div>
-            {/* <div onClick={openNav}>
+            <div onClick={openNav}>
                 <Bars3Icon className='w-[2rem] md:hidden h-[2rem] cursor-pointer text-yellow-300'/>
-            </div> */}
+            </div>
         </div>
     </div>
   )
