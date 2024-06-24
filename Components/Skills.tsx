@@ -17,15 +17,15 @@ const Skills = () => {
           />
         </div>
         <div className="text-[18px] text-[#ffffff92]">
-          <ul >
+          <ul>
             <li>
-              ▪ Implemented and maintained the website and mobile app using
+              ▪ Implemented and maintained the website and mobile app using{" "}
               <strong>Spring MVC architecture</strong>.
             </li>
             <li>
               ▪ Designed and integrated multiple APIs for new payers,
-              facilitating seamless transactions and expanding the company&apos;s
-              reach.
+              facilitating seamless transactions and expanding the
+              company&apos;s reach.
             </li>
             <li>
               ▪ Spearheaded the addition of bill payment services into the
@@ -72,8 +72,8 @@ const Skills = () => {
             </li>
           </ul>
         </div>
-        
-        <div style={{paddingTop:'7.5rem'}}>
+
+        <div style={{ paddingTop: "7.5rem" }}>
           <SkillLanguage
             skill1="Java"
             skill2="Kotlin"

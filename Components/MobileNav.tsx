@@ -1,5 +1,5 @@
 import React from 'react'
-import {XMarkIcon} from "@heroicons/react/20/solid"
+// import {XMarkIcon} from "@heroicons/react/20/solid"
 
 interface Props {
     nav: boolean;
@@ -19,7 +19,7 @@ const MobileNav = ({nav, closeNav}: Props) => {
             <div className='nav-link-mobile'>CONTACT</div>
         </div>
         <div onClick={closeNav} className='absolute z-[100000000] cursor-pointer top-[2rem] right-[2rem] w-[2rem] h-[2rem] text-yellow-400'>
-            <XMarkIcon/>
+            {/* <XMarkIcon/> */}
         </div>
     </div>
   )
