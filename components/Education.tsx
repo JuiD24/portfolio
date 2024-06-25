@@ -5,15 +5,12 @@ const Education = () => {
     <div className="bg-[#121121] pb-[3rem] pt-[4rem] md:pt-[8rem]">
       <div className="w-[80%] mx-auto">
         {/* Title Section */}
-        <h1 className="text-[20px] font-bold uppercase text-[#55e6a5] mb-[1rem] mt-[2rem]">
-          Education
+        <h1 className="heading items-center text-center">
+        <span className="text-yellow-400">EDU</span>CATION
         </h1>
-        <div className="mb-[3rem] flex items-center md:space-x-10">
-          <span className="w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm"></span>
-        </div>
         
         {/* Grid Section */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-[3rem] items-start">
+        <div className="mt-[4rem] grid grid-cols-1 md:grid-cols-2 gap-[10rem] items-start">
           {/* Education Entry 1 */}
           <div>
             <span className="px-[2rem] text-[#55e6a5] py-[0.9rem] font-bold text-[18px] border-[2px] border-[#55e6a5]">
