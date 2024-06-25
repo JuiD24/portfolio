@@ -6,26 +6,26 @@ const Projects = () => {
   const projectData = [
     {   
       title : "AlgoVisualizer",
-      imageSrc: "/images/b1.jpg",
+      imageSrc: "/images/AlgoViz.png",
       sourceCodeLink: "https://github.com/JuiD24/AlgoViz",
       demoLink: "https://demo-link.com",
     },
     {
       title : "Find my Gym Buddy",
-      imageSrc: "/images/b2.jpg",
+      imageSrc: "/images/WREC.jpg",
       sourceCodeLink: "https://github.com/JuiD24/Find_my_Gym_Buddy",
       demoLink: "https://demo-link-2.com",
     },
     // Add more projects as needed
     {
         title : "Decor my Home",
-      imageSrc: "/images/b1.jpg",
+      imageSrc: "/images/DecorMyHome.png",
       // No links for this item
       sourceCodeLink: "https://github.com/JuiD24/Decor_my_home"
     },
     {
         title : "Nodejs-ReactJs-chatApp ",
-      imageSrc: "/images/b2.jpg",
+      imageSrc: "/images/ChatApp.png",
       sourceCodeLink : "https://github.com/JuiD24/Nodejs-ReactJs-chatApp",
       demoLink: "https://demo-link-4.com",
     },
