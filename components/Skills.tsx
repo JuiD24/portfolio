@@ -20,7 +20,7 @@ const Skills = () => {
           <ul>
             <li>
               ▪ Implemented and maintained the website and mobile app using{" "}
-              <strong>Spring MVC architecture</strong>.
+              <strong>Java with Spring MVC architecture</strong> and <strong>React JS</strong>.
             </li>
             <li>
               ▪ Designed and integrated multiple APIs for new payers,
@@ -30,6 +30,7 @@ const Skills = () => {
             <li>
               ▪ Spearheaded the addition of bill payment services into the
               system, resulting in a <strong>30% growth in transactions</strong>
+              .
             </li>
             <li>
               ▪ Streamlined user management processes for agency owners,
@@ -37,9 +38,9 @@ const Skills = () => {
             </li>
             <li>
               ▪ Solely developed an administrative web interface for managing
-              debit terminals and kiosks using <strong>Kotlin</strong>,
-              <strong>TypeScript</strong>, <strong>HTML</strong>,
-              <strong>Bootstrap</strong>, <strong>Spring Boot</strong>, and the
+              debit terminals and kiosks using <strong>Kotlin</strong>,{" "}
+              <strong>TypeScript</strong>, <strong>HTML</strong>,{" "}
+              <strong>Bootstrap</strong>, <strong>Spring Boot</strong>, and the{" "}
               <strong>Thymeleaf templating engine</strong>.
             </li>
           </ul>
