@@ -19,29 +19,37 @@ const Skills = () => {
         <div className="text-[18px] text-[#ffffff92]">
           <ul>
             <li>
-              ▪ Implemented and maintained the website and mobile app using{" "}
-              <strong>Java with Spring MVC architecture</strong> and <strong>React JS</strong>.
+            ● Developed and maintained high-performance web and mobile applications using <strong>Java and Spring MVC</strong>, implementing SOLID 
+            principles, Factory and Singleton Design Patterns, and clean coding practices to ensure extensible and maintainable codebase. 
             </li>
             <li>
-              ▪ Designed and integrated multiple APIs for new payers,
-              facilitating seamless transactions and expanding the
-              company&apos;s reach.
+              ▪ Architected and implemented <strong>RESTful and SOAP APIs</strong> using OpenAPI specifications, optimizing microservices communication with 
+              load balancing and rate limiting via API Gateway.
             </li>
             <li>
-              ▪ Spearheaded the addition of bill payment services into the
-              system, resulting in a <strong>30% growth in transactions</strong>
+            ▪ Led the integration of a bill payment system within a distributed <strong>microservices</strong> architecture, implementing Redis for in-memory 
+            caching,
               .
             </li>
             <li>
-              ▪ Streamlined user management processes for agency owners,
-              reducing support tickets by <strong>20%</strong>.
+            ▪ Enhanced user management workflows by implementing role-based access control (RBAC) with JSON Web Tokens (JWT) for secure 
+            authentication and LDAP for centralized user management, reducing support tickets by 20%. 
             </li>
             <li>
-              ▪ Solely developed an administrative web interface for managing
-              debit terminals and kiosks using <strong>Kotlin</strong>,{" "}
-              <strong>TypeScript</strong>, <strong>HTML</strong>,{" "}
-              <strong>Bootstrap</strong>, <strong>Spring Boot</strong>, and the{" "}
-              <strong>Thymeleaf templating engine</strong>.
+            ▪ Created modular, responsive UI components using Google Web Toolkit (GWT), AJAX, and asynchronous JavaScript to optimize client
+            server communication, improving performance and cross-browser compatibility. 
+            </li>
+            <li>
+            ▪ Integrated Onfido’s identity verification API with OAuth 2.0, implementing a secure, GDPR-compliant document verification system 
+            that streamlined KYC (Know Your Customer) processes.
+            </li>
+            <li>
+            ▪ Designed and developed an administrative portal for managing debit terminals and kiosks using Kotlin, TypeScript, and Spring Boot, 
+employing Thymeleaf for dynamic HTML rendering and Bootstrap for responsive design, providing administrators with an intuitive control interface. 
+            </li>
+            <li>
+            ▪ Contributed to the development of a dynamic React application, leveraging Redux for state management and Apollo Client for efficient 
+            GraphQL API integration, optimizing data loading and reducing latency by 15%. 
             </li>
           </ul>
         </div>
@@ -55,21 +63,21 @@ const Skills = () => {
         <div className="text-[18px] text-[#ffffff92]">
           <ul>
             <li>
-              ▪ Involved in Requirement Analysis, Project Planning, Sprint
-              planning, System and Database Design, Development, Testing,
-              Implementation and Documentation using Agile methodology like
-              SCRUM, unit testing and fixing various production issues.
+              ▪ Developed a high-traffic e-commerce platform leveraging React.js, Java, Spring, Hibernate (with Redux for state management) and 
+Node.js on the backend, optimizing performance and responsiveness, increasing customer engagement and reducing page load times 
+by 25%. 
             </li>
             <li>
-              ▪ Customized product as per client requirements using Spring,
-              Hibernate, Java, J2EE, and SQL programming. Altered, updated, and
-              enhanced existing systems and applications after performing
-              troubleshooting measures to determine the issue. Analyzed end
-              users need to provide service-level software development.
+              ▪ Implemented real-time communication features using WebSocket with Express.js and Socket.io, enabling bidirectional messaging 
+              between users and support teams, improving real-time support capabilities and boosting customer satisfaction by 25%. 
             </li>
             <li>
-              ▪ Worked in a team to design and develop a prototype called Award
-              Portal for internal purposes for Infosys.
+              ▪ Architected and deployed a serverless microservices architecture using AWS Lambda, API Gateway, and DynamoDB, significantly 
+              reducing operational costs by 20% while improving scalability and deployment flexibility. 
+            </li>
+            <li>
+            ▪ Led efforts in database optimization, leveraging MongoDB with Mongoose for efficient data storage and retrieval, incorporating 
+            indexing strategies and query optimization to improve performance by 30%. 
             </li>
           </ul>
         </div>
