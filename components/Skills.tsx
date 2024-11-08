@@ -89,11 +89,11 @@ by 25%.
             skill3="Next JS"
             skill4="Python"
             skill5="C++"
-            level1="w-[92%]"
+            level1="w-[100%]"
             level2="w-[91%]"
             level3="w-[80%]"
             level4="w-[90%]"
-            level5="w-[80%]"
+            level5="w-[90%]"
           />
         </div>
         <div>
@@ -103,7 +103,7 @@ by 25%.
             skill3="TypeScript"
             skill4="Django"
             skill5=""
-            level1="w-[91%]"
+            level1="w-[100%]"
             level2="w-[91%]"
             level3="w-[88%]"
             level4="w-[90%]"
